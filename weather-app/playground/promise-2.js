@@ -23,7 +23,7 @@ var geocodeAddress = (address) => {
   });
 };
 
-geocodeAddress('00000').then((location) => {
+geocodeAddress('10540').then((location) => {
   console.log(JSON.stringify(location, undefined, 2));
 }, (errorMessage) => {
   console.log(errorMessage);
