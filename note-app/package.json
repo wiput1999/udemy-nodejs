@@ -1,0 +1,12 @@
+{
+  "name": "note-app",
+  "version": "1.0.0",
+  "description": "Note App",
+  "main": "app.js",
+  "author": "Wiput Pootong",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "yargs": "^8.0.1"
+  }
+}
