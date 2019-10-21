@@ -6,7 +6,7 @@
   "author": "Wiput Pootong",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.13",
     "yargs": "^8.0.1"
   }
 }
